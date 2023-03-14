@@ -12,8 +12,8 @@ class Example{
 
      String or="Omkar jadhav";
       String re= sr.reverseString(or);
-      System.out.println("original String"+or);
-      System.out.println("reverse String"+re);
+      System.out.println("original String "+or);
+      System.out.println("reverse String "+re);
      }
     }
        
